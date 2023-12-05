@@ -16,3 +16,5 @@ public class STOExecutionConstants {
   public static final String STO_SERVICE_ENDPOINT_VARIABLE = "HARNESS_STO_SERVICE_ENDPOINT";
   public static final String STO_SERVICE_TOKEN_VARIABLE = "HARNESS_STO_SERVICE_TOKEN";
 }
+
+// Test comment
